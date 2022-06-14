@@ -1,0 +1,75 @@
+html{
+    scroll-behavior: smooth;
+}
+
+a{text-decoration: none;}
+
+.navbar .social i{
+    font-size: 20px;
+}
+
+.social .facebook i:hover{
+    color: #4267B2;
+}
+
+.social .twitter i:hover{
+    color: #1DA1F2;
+}
+
+.social .pinterest i:hover{
+    color: #E60023;
+}
+
+.social .mail i:hover{
+    color: #1DA1F2;
+}
+
+.social .nav-item .whatsapp:hover{
+    color: #1DB954;
+}
+
+.social .nav-item .location:hover{
+    color: #1DA1F2;
+}
+
+
+.parts .nav-item:hover{
+    color: #ffc107;
+    border-bottom: 2px solid #ffc107;
+}
+
+.main-header{
+    background-image: url('../Kuaför/img/bg-2.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.hakkimizda .hizmetler-buton:hover{
+    background-color: #343a40;
+    color:#ffc107 !important;
+}
+
+.tasarimcilar .card:hover{
+    background-color: #343a40 !important;
+    box-shadow: 8px 4px 4px 4px #555554  !important;
+    cursor: pointer;
+}
+
+.hizmetler .col-5:hover{
+    opacity: .9;
+    cursor: pointer;
+}
+
+.card-item a{
+    color: #ffc107;
+}
+
+.card-item:hover{
+    color: #1DA1F2 !important;
+}
+
+form.html body{
+    column-rule: #343a40;
+}
